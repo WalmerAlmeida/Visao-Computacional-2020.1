@@ -1,2 +1,2 @@
 # Visao-Computacional-2020.1
-Listas de Visão computacional
+Listas de Visão computacional feita em dupla
